@@ -3,5 +3,6 @@
 - One can run both of the programs by going into the command line and typing "SudokuGame.py --board n00b" or "SudokuSolver.py --board n00b" where n00b is a .sudoku file included above
 - Created a sudoku game that allows the user to play by interacting with a graphical user interface
 - Designed a sudoku solver using a backtracking algorithm to solve newly generated games
+- Below is a screenshot of the game with a clear board
 ![Screenshot](SudokuScreenshot.png)
 
