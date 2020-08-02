@@ -4,5 +4,6 @@
 - Created a sudoku game that allows the user to play by interacting with a graphical user interface
 - Designed a sudoku solver using a backtracking algorithm to solve newly generated games
 - Below is a screenshot of the game with a clear board
+<br />
 ![Screenshot](SudokuScreenshot.png)
 
