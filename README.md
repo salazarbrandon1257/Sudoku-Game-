@@ -7,5 +7,6 @@
 <br /> 
 
 ![Screenshot](SudokuScreenshot.png)
+
 ![Screenshot](Screenshot (62).png)
 
